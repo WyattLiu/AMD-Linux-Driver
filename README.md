@@ -37,6 +37,15 @@ Yes, stop lightdm/X server first as it is required by nvidia
 
 Although we have OpenCL 2.0 here, most miners on the market cannot work such as NBMiner, Gminer, Teamredminer, Lolminer. The only one works is xmrig.
 ```
-
+[2022-01-09 14:27:17.522]  opencl   KawPow program for period 699151 compiled (501ms)
+[2022-01-09 14:27:44.892]  opencl   accepted (29/0) diff 431M (30 ms)
+[2022-01-09 14:28:06.935]  opencl   accepted (30/0) diff 431M (30 ms)
+[2022-01-09 14:28:07.622]  opencl   #0 04:00.0   0W 69C    0RPM 1900/0MHz
+[2022-01-09 14:28:07.622]  miner    speed 10s/60s/15m 1.71 1.72 1.77 MH/s max 2.04 MH/s
+[2022-01-09 14:28:17.059]  net      new job from stratum-ravencoin.flypool.org:3333 diff 431M algo kawpow height 2097450
+[2022-01-09 14:28:54.345]  net      new job from stratum-ravencoin.flypool.org:3333 diff 431M algo kawpow height 2097451
 ```
 
+If this helps, BTC:
+
+Have a nice day.
