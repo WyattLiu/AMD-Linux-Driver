@@ -46,6 +46,6 @@ Although we have OpenCL 2.0 here, most miners on the market cannot work such as 
 [2022-01-09 14:28:54.345]  net      new job from stratum-ravencoin.flypool.org:3333 diff 431M algo kawpow height 2097451
 ```
 
-If this helps, BTC:
+If this helps, BTC: `bc1qxumjk7kc4qqukp3aytm4a97uglrv9s2tywwtc3`
 
 Have a nice day.
