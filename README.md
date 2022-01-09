@@ -32,3 +32,11 @@ https://community.amd.com/t5/drivers-software/no-opencl-devices-ubuntu-20-04-2/t
 
 Reinstall cuda/gpu driver using the run file downloaded. The only thing lost is the driver, suggest a full upgrade install.
 Yes, stop lightdm/X server first as it is required by nvidia
+
+# Raven Mining on APU (5600G) Vega 8
+
+Although we have OpenCL 2.0 here, most miners on the market cannot work such as NBMiner, Gminer, Teamredminer, Lolminer. The only one works is xmrig.
+```
+
+```
+
