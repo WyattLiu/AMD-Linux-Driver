@@ -1,5 +1,7 @@
 # AMD-Linux-Driver
-Aggregate information found online about how to install AMD Linux Driver and works for APU
+Aggregate information found online about how to install AMD Linux Driver and works for APU.
+Tested system:
+5600G Ubuntu 20.04 + RTX A2000
 
 # Recovery from faulty installs
 You may want to do ./amdgpu-pro-install --uninstall and other measures to clean up
@@ -29,3 +31,4 @@ https://community.amd.com/t5/drivers-software/no-opencl-devices-ubuntu-20-04-2/t
 # what happened to your nvidia GPU if you have a mixed system like I do
 
 Reinstall cuda/gpu driver using the run file downloaded. The only thing lost is the driver, suggest a full upgrade install.
+Yes, stop lightdm/X server first as it is required by nvidia
